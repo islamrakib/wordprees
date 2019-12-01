@@ -1,0 +1,24 @@
+2019-11-30T07:57:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wordpress\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-11-30T08:48:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wordpress\wp-includes\Requests\Transport\cURL.php on line 463
+
+2019-11-30T08:55:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wordpress\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-11-30T08:55:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wordpress\wp-includes\Requests\Transport\cURL.php on line 463
+
+2019-11-30T08:57:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wordpress\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-11-30T09:17:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wordpress\wp-includes\Requests\Transport\cURL.php on line 463
+
+2019-11-30T09:36:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wordpress\wp-includes\Requests\Transport\cURL.php on line 463
+
+2019-11-30T09:48:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wordpress\wp-includes\Requests\Transport\cURL.php on line 463
+
+2019-11-30T09:55:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wordpress\wp-includes\Requests\Transport\cURL.php on line 463
+
+2019-11-30T10:20:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wordpress\wp-includes\wp-db.php on line 2030
+
+2019-11-30T10:25:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wordpress\wp-includes\wp-db.php on line 2030
+
+2019-11-30T10:30:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wordpress\wp-includes\Requests\Transport\cURL.php on line 163
+
